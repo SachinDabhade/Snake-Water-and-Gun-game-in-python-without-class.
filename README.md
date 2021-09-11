@@ -5,8 +5,8 @@ This is the snake, water and gun game written in python without using class. Her
 I promote the open source contribution. So, I invite you all to add new features in this game and also simplify the code as you can.
 
 ## Authors and acknowledgment
-Author Name: Sachin Vinayak Dabhade
-Education: Pursuing B.Tech Degree in Data Science and Engineering from R. C. Patel Institute of Technology. (Status-11-09-2021)
+Author Name: Sachin Vinayak Dabhade.
+Education: Pursuing B.Tech Degree in Data Science and Engineering from R. C. Patel Institute of Technology. (Status-11-09-2021).
 
 ## Licence
 [GNU](https://choosealicense.com/licenses/gpl-3.0/#)
