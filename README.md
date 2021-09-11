@@ -6,7 +6,6 @@ I promote the open source contribution. So, I invite you all to add new features
 
 ## Authors and acknowledgment
 Author Name: Sachin Vinayak Dabhade.
-Education: Pursuing B.Tech Degree in Data Science and Engineering from R. C. Patel Institute of Technology. (Status-11-09-2021).
 
 ## Licence
 [GNU](https://choosealicense.com/licenses/gpl-3.0/#)
