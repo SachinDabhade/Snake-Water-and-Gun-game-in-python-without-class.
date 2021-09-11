@@ -1,7 +1,7 @@
 # ******************************** This is a snake, water, gun game ************************************
 
 # Importing Libraries
-from _datetime import datetime
+from datetime import datetime
 import random
 import time
 
